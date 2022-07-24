@@ -1,0 +1,11 @@
+（1）A,B
+  (2) type A struct{
+  a struct{}    
+  str string   
+  num1 int32  
+  byte1 byte  
+}
+  (3)C
+  (4)C
+  (5)B
+  (6)不是，空接口是指可以输入任何类型的值；nil接口是指该接口存在，但为空。
